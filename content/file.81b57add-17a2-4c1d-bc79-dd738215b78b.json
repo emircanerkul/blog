@@ -1,0 +1,60 @@
+{
+    "uuid": [
+        {
+            "value": "81b57add-17a2-4c1d-bc79-dd738215b78b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3bcd4888-8a25-4dc2-aaaf-cbf72517fe01"
+        }
+    ],
+    "filename": [
+        {
+            "value": "madhu-shesharam-YvQ2--lOghs-unsplash.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/madhu-shesharam-YvQ2--lOghs-unsplash.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 292290
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-03-21T07:24:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-03-21T07:24:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "bookish_image_data": [
+        {
+            "value": "{\"brightness\":23,\"contrast\":-15,\"saturation\":0,\"blur\":0,\"grayscale\":0,\"hue\":0,\"red\":1,\"green\":12,\"blue\":15,\"focal_point\":[1086,658]}"
+        }
+    ]
+}

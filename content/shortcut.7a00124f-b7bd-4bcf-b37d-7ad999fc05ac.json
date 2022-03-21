@@ -1,0 +1,41 @@
+{
+    "uuid": [
+        {
+            "value": "7a00124f-b7bd-4bcf-b37d-7ad999fc05ac"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "shortcut_set": [
+        {
+            "target_id": "default",
+            "target_type": "shortcut_set",
+            "target_uuid": "2034beef-468d-4e2a-87df-14306d903da8"
+        }
+    ],
+    "title": [
+        {
+            "value": "Tome Sync"
+        }
+    ],
+    "weight": [
+        {
+            "value": 6
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/admin\/config\/tome\/sync",
+            "title": null,
+            "options": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}

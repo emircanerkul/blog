@@ -1,0 +1,80 @@
+{
+    "uuid": [
+        {
+            "value": "9d7ae167-dad8-46fd-b69d-9a6f353c7613"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "bookish_callout",
+            "target_type": "block_content_type",
+            "target_uuid": "a145d9a9-aef5-409f-9b9d-42db0961b9d6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-03-21T07:32:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "48947a00-e1b1-43e6-8bbf-5cc2fc5409df"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "info": [
+        {
+            "value": "Homepage callout"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-03-21T07:32:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": true
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "body": [
+        {
+            "value": "<h2>Welcome!<\/h2><p>Thank you&nbsp;<br><a href=\"https:\/\/www.drupal.org\/u\/samuelmortenson\">Samuel Mortenson<\/a> for this awesome Tome Module, it's really easy to use.<\/p><p><br>&nbsp;<\/p>",
+            "format": "callout_text",
+            "summary": ""
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "A bridge in front of a waterfall.",
+            "title": "",
+            "width": 1920,
+            "height": 1280,
+            "target_type": "file",
+            "target_uuid": "0cf4c90d-9734-4d47-a0b7-61a2e5b94f24"
+        }
+    ]
+}

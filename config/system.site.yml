@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: RePADAH4yHzDAKh-gEsDxPFK9hQe32l4p4t8Cqryww8
+langcode: en
+uuid: 3d91a728-2f79-417c-9bde-0299e26aa4f3
+name: 'Emircan''s Blog (TEST)'
+mail: contact@emircanerkul.com
+slogan: ''
+page:
+  403: /403
+  404: /404
+  front: /home
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en

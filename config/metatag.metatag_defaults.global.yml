@@ -1,0 +1,29 @@
+uuid: 734a75db-4bca-457c-8324-e88874c2e2b1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zrdd7ZA5TuofuXZx5Yr18koSt186fFXtYv-hZzRnoSw
+id: global
+label: Global
+tags:
+  canonical_url: '[current-page:url]'
+  description: '[bookish:social_node:summary]'
+  image_src: '[bookish:social_node:field_image:social_card]'
+  robots: 'noindex, nofollow, noarchive, nosnippet'
+  title: '[current-page:title] | [site:name]'
+  og_description: '[bookish:social_node:summary]'
+  og_image: '[bookish:social_node:field_image:social_card]'
+  og_image_alt: '[bookish:social_node:field_image:alt]'
+  og_image_height: '[bookish:social_node:field_image:social_card:height]'
+  og_image_width: '[bookish:social_node:field_image:social_card:width]'
+  og_site_name: '[site:name]'
+  og_title: '[current-page:title] | [site:name]'
+  twitter_cards_description: '[bookish:social_node:summary]'
+  twitter_cards_image: '[bookish:social_node:field_image:social_card]'
+  twitter_cards_image_alt: '[bookish:social_node:field_image:alt]'
+  twitter_cards_image_height: '[bookish:social_node:field_image:social_card:height]'
+  twitter_cards_image_width: '[bookish:social_node:field_image:social_card:width]'
+  twitter_cards_page_url: '[current-page:url]'
+  twitter_cards_title: '[current-page:title] | [site:name]'
+  twitter_cards_type: summary_large_image

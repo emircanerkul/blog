@@ -1,0 +1,10 @@
+uuid: a145d9a9-aef5-409f-9b9d-42db0961b9d6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OApF14OLq8_UTXDPfASAgmY5azbHMKKA5gcigfG5P5s
+id: bookish_callout
+label: 'Bookish callout'
+revision: 1
+description: ''
