@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://blog.dev.emircanerkul.com/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://blog-dev.emircanerkul.com/">
   <channel>
     <title>Bookish Blog</title>
-    <link>http://blog.dev.emircanerkul.com/</link>
+    <link>http://blog-dev.emircanerkul.com/</link>
     <description>My personal blog</description>
     <language>en</language>
     
     <item>
   <title>Learning to ride moose</title>
-  <link>http://blog.dev.emircanerkul.com/blog/learning-ride-moose</link>
+  <link>http://blog-dev.emircanerkul.com/blog/learning-ride-moose</link>
   <description>Bitters brunch selvage celiac migas cred salvia flannel ethical gluten-free pop-up. Succulents photo booth authentic, skateboard tousled vinyl hell of single-origin coffee aesthetic chia farm-to-table gentrify pop-up affogato tattooed. Readymade lo-fi 90's asymmetrical hoodie, yr intelligentsia synth unicorn single-origin coffee edison bulb put a bird on it next level. Neutra godard master cleanse whatever tilde, copper mug before they sold out photo booth shoreditch pinterest next level snackwave sartorial.</description>
   <pubDate>Mon, 21 Mar 22 07:25:02 +0000</pubDate>
     <dc:creator>Emircan ERKUL</dc:creator>
@@ -16,7 +16,7 @@
     </item>
 <item>
   <title>If monkeys can take baths, so can you</title>
-  <link>http://blog.dev.emircanerkul.com/blog/if-monkeys-can-take-baths-so-can-you</link>
+  <link>http://blog-dev.emircanerkul.com/blog/if-monkeys-can-take-baths-so-can-you</link>
   <description>Bitters brunch selvage celiac migas cred salvia flannel ethical gluten-free pop-up. Succulents photo booth authentic, skateboard tousled vinyl hell of single-origin coffee aesthetic chia farm-to-table gentrify pop-up affogato tattooed. Readymade lo-fi 90's asymmetrical hoodie, yr intelligentsia synth unicorn single-origin coffee edison bulb put a bird on it next level. Neutra godard master cleanse whatever tilde, copper mug before they sold out photo booth shoreditch pinterest next level snackwave sartorial.</description>
   <pubDate>Mon, 21 Mar 22 07:25:01 +0000</pubDate>
     <dc:creator>Emircan ERKUL</dc:creator>
@@ -24,7 +24,7 @@
     </item>
 <item>
   <title>A day at the Japanese Garden</title>
-  <link>http://blog.dev.emircanerkul.com/blog/day-japanese-garden</link>
+  <link>http://blog-dev.emircanerkul.com/blog/day-japanese-garden</link>
   <description>Bitters brunch selvage celiac migas cred salvia flannel ethical gluten-free pop-up. Succulents photo booth authentic, skateboard tousled vinyl hell of single-origin coffee aesthetic chia farm-to-table gentrify pop-up affogato tattooed. Readymade lo-fi 90's asymmetrical hoodie, yr intelligentsia synth unicorn single-origin coffee edison bulb put a bird on it next level. Neutra godard master cleanse whatever tilde, copper mug before they sold out photo booth shoreditch pinterest next level snackwave sartorial.</description>
   <pubDate>Mon, 21 Mar 22 07:25:00 +0000</pubDate>
     <dc:creator>Emircan ERKUL</dc:creator>
@@ -32,7 +32,7 @@
     </item>
 <item>
   <title>Images just can't describe it</title>
-  <link>http://blog.dev.emircanerkul.com/blog/images-just-cant-describe-it</link>
+  <link>http://blog-dev.emircanerkul.com/blog/images-just-cant-describe-it</link>
   <description>Bitters brunch selvage celiac migas cred salvia flannel ethical gluten-free pop-up. Succulents photo booth authentic, skateboard tousled vinyl hell of single-origin coffee aesthetic chia farm-to-table gentrify pop-up affogato tattooed. Readymade lo-fi 90's asymmetrical hoodie, yr intelligentsia synth unicorn single-origin coffee edison bulb put a bird on it next level. Neutra godard master cleanse whatever tilde, copper mug before they sold out photo booth shoreditch pinterest next level snackwave sartorial.</description>
   <pubDate>Mon, 21 Mar 22 07:24:59 +0000</pubDate>
     <dc:creator>Emircan ERKUL</dc:creator>
